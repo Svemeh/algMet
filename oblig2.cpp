@@ -5,6 +5,7 @@
  *
  *   @file    OBLIG2.CPP
  *   @author  Frode Haug, NTNU
+ *   oppgave løst av @author Sverre Mæhlum, Student ved NTNU BPROG
  */
 
 
